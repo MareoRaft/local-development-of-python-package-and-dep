@@ -1,6 +1,6 @@
 Imagine you are developing project A, and project A depends on project B which you are also developing.  How can you locally develop both at the same time?
 
-This repo just shows a very basic example of that in python.
+This repo just shows a very basic example of that in Python (tested with Python 3.8.8).
 
 `repo-b` -> This folder is an example of the repo for project B.  It exposes a package called **b**.
 
